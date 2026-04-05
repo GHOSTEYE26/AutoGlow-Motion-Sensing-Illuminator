@@ -40,11 +40,6 @@ Built with **Arduino Nano** on a breadboard for a simple and effective smart lig
 
 **Note:** Adjust the potentiometers on the PIR sensor for sensitivity and time delay as needed.
 
-### Circuit Diagram / Breadboard View
-
-![Breadboard Connection](https://via.placeholder.com/800x500/009900/ffffff?text=Breadboard+Connection+Diagram)
-
-*(Replace the placeholder with your actual photo of the breadboard setup)*
 
 ## 📄 Code
 
