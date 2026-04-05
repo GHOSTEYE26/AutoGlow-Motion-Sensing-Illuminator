@@ -4,7 +4,7 @@ An automatic light control system that turns ON the light when **motion is detec
 
 Built with **Arduino Nano** on a breadboard for a simple and effective smart lighting solution.
 
-![Project Banner](https://via.placeholder.com/800x400/0066cc/ffffff?text=AutoGlow+-+Motion+Sensing+Illuminator)
+![Project Banner](https://github.com/GHOSTEYE26/AutoGlow-Motion-Sensing-Illuminator/blob/main/AutoGlow.jpeg?raw=true)
 
 ## ✨ Features
 
